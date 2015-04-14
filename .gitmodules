@@ -1,0 +1,15 @@
+[submodule "meta"]
+	path = meta
+	url = ../meta
+[submodule "utility"]
+	path = utility
+	url = ../utility
+[submodule "rime"]
+	path = rime
+	url = ../rime
+[submodule "range"]
+	path = range
+	url = ../range
+[submodule "math"]
+	path = math
+	url = ../math
